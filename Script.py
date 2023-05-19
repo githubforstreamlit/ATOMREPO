@@ -215,9 +215,9 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️Movies Group : <a href="https://t.me/Tseries112">ʜᴇʀᴇ</a>
+▫️Movies Group : <a href="https://t.me/Tseries112">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
 
-▫️Support ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/movies_1782_support">ʜᴇʀᴇ</a>
+▫️Support ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/movies_1782_support">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
  
 ▫️For Premium Contents: @Atom_zero & @movies_1782</b>"""
 
