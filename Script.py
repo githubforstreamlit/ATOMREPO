@@ -215,9 +215,9 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️Movies Group : <a'href=t.me/akimax_6'>ᴄʟɪᴄᴋ ʜᴇʀᴇ<a>
+▫️Movies Group : <a href="https://t.me/Tseries112">ʜᴇʀᴇ</a>
 
-▫️Support ᴄʜᴀɴɴᴇʟ : <a'href=t.me/Akimaxmovies_3'>ᴄʟɪᴄᴋ ʜᴇʀᴇ<a>
+▫️Support ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/akimax_7">ʜᴇʀᴇ</a>
  
 ▫️For Premium Contents: @Atom_zero & @movies_1782</b>"""
 
